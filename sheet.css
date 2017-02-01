@@ -1,0 +1,36 @@
+.div1 {
+  width:85%;
+  height:60px;
+  background-color:green;
+}
+  .div2 {
+    width:100%;
+    height:60px;
+    background-color:red;
+  }
+    .div3 {
+      width:25%;
+      height:60px;
+      background-color: rgb(255, 199, 0) ;
+      margin-right: 10px;
+    }
+      .div4 {
+        width:99%;
+        height:60px;
+        background-color:blue;
+      }
+        .div5 {
+          width:60%;
+          height:60px;
+          background-color:grey ;
+        }
+          .div6 {
+            width:99%;
+            height:60px;
+            background-color: black;
+          }
+            .div7 {
+              width:100%;
+              height:60px;
+              background-color:#ED7F10;
+            }
